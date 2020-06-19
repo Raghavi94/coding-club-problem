@@ -1,0 +1,7 @@
+#This code is a hackerrank competition code which was organized by coding club.
+#python code
+n=int(input())
+for i in range(1,n+1):
+  a=i*i
+  print(a,end=" ")
+  i=i+1
